@@ -1,0 +1,364 @@
+{
+  "generatedAt": "2026-08-05T13:14:53.225610+00:00",
+  "mode": "demo",
+  "warnings": [],
+  "method": "search-index-previews-and-manual-input",
+  "listings": [
+    {
+      "id": "demo-002",
+      "title": "2000 BMW Z3 2.8 Roadster",
+      "price": 6450,
+      "mileage": 82000,
+      "year": 2000,
+      "engine": "2.8",
+      "source": "Car & Classic",
+      "location": "Bristol",
+      "foundAt": "2026-08-04T14:20:00Z",
+      "url": "https://www.carandclassic.com/list/10/z3/",
+      "description": "Service history and recent service. Excellent condition; roof replaced in 2024. MOT until May 2027.",
+      "isDemo": true,
+      "expectedPrice": 7550,
+      "priceDifference": 15,
+      "dealScore": 8.7,
+      "conditionScore": 6.5,
+      "overallScore": 7.7,
+      "confidence": 100,
+      "reasons": [
+        {
+          "text": "15% below the modelled benchmark",
+          "type": "positive"
+        },
+        {
+          "text": "Some service history mentioned",
+          "type": "positive"
+        },
+        {
+          "text": "Recent service claimed",
+          "type": "positive"
+        },
+        {
+          "text": "Replacement roof mentioned",
+          "type": "positive"
+        },
+        {
+          "text": "Useful MOT remaining",
+          "type": "positive"
+        },
+        {
+          "text": "Positive condition claim",
+          "type": "positive"
+        },
+        {
+          "text": "Corrosion condition is not stated",
+          "type": "neutral"
+        }
+      ]
+    },
+    {
+      "id": "demo-003",
+      "title": "2002 BMW Z3 3.0i Sport",
+      "price": 8995,
+      "mileage": 76000,
+      "year": 2002,
+      "engine": "3.0",
+      "source": "PistonHeads",
+      "location": "Leeds",
+      "foundAt": "2026-08-05T07:10:00Z",
+      "url": "https://www.pistonheads.com/buy/bmw/z3",
+      "description": "Cherished example with full history and a large invoice file. Garage kept. 10 months MOT.",
+      "isDemo": true,
+      "expectedPrice": 9550,
+      "priceDifference": 6,
+      "dealScore": 7.8,
+      "conditionScore": 6.7,
+      "overallScore": 7.3,
+      "confidence": 100,
+      "reasons": [
+        {
+          "text": "6% below the modelled benchmark",
+          "type": "positive"
+        },
+        {
+          "text": "Full service history claimed",
+          "type": "positive"
+        },
+        {
+          "text": "Garaged storage claimed",
+          "type": "positive"
+        },
+        {
+          "text": "Useful MOT remaining",
+          "type": "positive"
+        },
+        {
+          "text": "Positive condition claim",
+          "type": "positive"
+        },
+        {
+          "text": "Corrosion condition is not stated",
+          "type": "neutral"
+        }
+      ]
+    },
+    {
+      "id": "demo-001",
+      "title": "2001 BMW Z3 2.2 Sport Roadster",
+      "price": 5750,
+      "mileage": 68000,
+      "year": 2001,
+      "engine": "2.2",
+      "source": "Auto Trader",
+      "location": "Guildford",
+      "foundAt": "2026-08-05T06:15:00Z",
+      "url": "https://www.autotrader.co.uk/car-search?make=BMW&model=Z3",
+      "description": "Full service history with invoices. 11 months MOT. Garaged and described as rust-free. Recently serviced.",
+      "isDemo": true,
+      "expectedPrice": 6550,
+      "priceDifference": 12,
+      "dealScore": 8.4,
+      "conditionScore": 5.4,
+      "overallScore": 7.1,
+      "confidence": 100,
+      "reasons": [
+        {
+          "text": "12% below the modelled benchmark",
+          "type": "positive"
+        },
+        {
+          "text": "Full service history claimed",
+          "type": "positive"
+        },
+        {
+          "text": "Recent service claimed",
+          "type": "positive"
+        },
+        {
+          "text": "Garaged storage claimed",
+          "type": "positive"
+        },
+        {
+          "text": "Useful MOT remaining",
+          "type": "positive"
+        },
+        {
+          "text": "Advert explicitly addresses corrosion",
+          "type": "positive"
+        },
+        {
+          "text": "Rust, corrosion or welding mentioned",
+          "type": "negative"
+        }
+      ]
+    },
+    {
+      "id": "demo-007",
+      "title": "2001 BMW Z3 1.9 Roadster",
+      "price": 4250,
+      "mileage": 79000,
+      "year": 2001,
+      "engine": "1.9",
+      "source": "Motors",
+      "location": "Oxford",
+      "foundAt": "2026-08-04T17:00:00Z",
+      "url": "https://www.motors.co.uk/search/car/?make=BMW&model=Z3",
+      "description": "Service book present and recently serviced. New soft top, 12 months MOT and no rust reported.",
+      "isDemo": true,
+      "expectedPrice": 4500,
+      "priceDifference": 6,
+      "dealScore": 7.8,
+      "conditionScore": 4.7,
+      "overallScore": 6.4,
+      "confidence": 100,
+      "reasons": [
+        {
+          "text": "6% below the modelled benchmark",
+          "type": "positive"
+        },
+        {
+          "text": "Some service history mentioned",
+          "type": "positive"
+        },
+        {
+          "text": "Recent service claimed",
+          "type": "positive"
+        },
+        {
+          "text": "Replacement roof mentioned",
+          "type": "positive"
+        },
+        {
+          "text": "Useful MOT remaining",
+          "type": "positive"
+        },
+        {
+          "text": "Advert explicitly addresses corrosion",
+          "type": "positive"
+        },
+        {
+          "text": "Rust, corrosion or welding mentioned",
+          "type": "negative"
+        }
+      ]
+    },
+    {
+      "id": "demo-006",
+      "title": "2000 BMW Z3 2.0 Roadster — Project",
+      "price": 1800,
+      "mileage": 124000,
+      "year": 2000,
+      "engine": "2.0",
+      "source": "Gumtree",
+      "location": "Manchester",
+      "foundAt": "2026-08-02T09:30:00Z",
+      "url": "https://www.gumtree.com/search?search_category=cars&search_location=uk&q=bmw+z3",
+      "description": "Project car, Cat N with no service history. Roof leaking and ABS warning light on.",
+      "isDemo": true,
+      "expectedPrice": 4600,
+      "priceDifference": 61,
+      "dealScore": 10.0,
+      "conditionScore": 1.0,
+      "overallScore": 6.0,
+      "confidence": 100,
+      "reasons": [
+        {
+          "text": "61% below the modelled benchmark",
+          "type": "positive"
+        },
+        {
+          "text": "Little or no service history",
+          "type": "negative"
+        },
+        {
+          "text": "Insurance category / write-off wording",
+          "type": "negative"
+        },
+        {
+          "text": "Project or non-runner wording",
+          "type": "negative"
+        },
+        {
+          "text": "Roof problem mentioned",
+          "type": "negative"
+        },
+        {
+          "text": "Warning light mentioned",
+          "type": "negative"
+        },
+        {
+          "text": "Corrosion condition is not stated",
+          "type": "neutral"
+        },
+        {
+          "text": "Higher mileage warrants closer inspection",
+          "type": "neutral"
+        }
+      ]
+    },
+    {
+      "id": "demo-004",
+      "title": "1999 BMW Z3 1.9 Roadster",
+      "price": 2995,
+      "mileage": 108000,
+      "year": 1999,
+      "engine": "1.9",
+      "source": "eBay",
+      "location": "Norwich",
+      "foundAt": "2026-08-03T10:00:00Z",
+      "url": "https://www.ebay.co.uk/sch/i.html?_nkw=bmw+z3+roadster",
+      "description": "Some service history. Drives well. Small rust patch on sill and hood leak in heavy rain.",
+      "isDemo": true,
+      "expectedPrice": 4000,
+      "priceDifference": 25,
+      "dealScore": 9.7,
+      "conditionScore": 1.0,
+      "overallScore": 5.8,
+      "confidence": 100,
+      "reasons": [
+        {
+          "text": "25% below the modelled benchmark",
+          "type": "positive"
+        },
+        {
+          "text": "Some service history mentioned",
+          "type": "positive"
+        },
+        {
+          "text": "Rust, corrosion or welding mentioned",
+          "type": "negative"
+        },
+        {
+          "text": "Roof problem mentioned",
+          "type": "negative"
+        }
+      ]
+    },
+    {
+      "id": "demo-005",
+      "title": "1998 BMW Z3 2.8 Wide Body",
+      "price": 7250,
+      "mileage": 59000,
+      "year": 1998,
+      "engine": "2.8",
+      "source": "Facebook",
+      "location": "Kent",
+      "foundAt": "2026-08-05T05:45:00Z",
+      "url": "https://www.facebook.com/marketplace/search/?query=bmw%20z3%20roadster",
+      "description": "Low-mileage weekend car. Excellent condition. No mention of service records, corrosion or MOT expiry.",
+      "isDemo": true,
+      "expectedPrice": 7600,
+      "priceDifference": 5,
+      "dealScore": 7.7,
+      "conditionScore": 2.8,
+      "overallScore": 5.5,
+      "confidence": 100,
+      "reasons": [
+        {
+          "text": "5% below the modelled benchmark",
+          "type": "positive"
+        },
+        {
+          "text": "Some service history mentioned",
+          "type": "positive"
+        },
+        {
+          "text": "Positive condition claim",
+          "type": "positive"
+        },
+        {
+          "text": "Rust, corrosion or welding mentioned",
+          "type": "negative"
+        }
+      ]
+    },
+    {
+      "id": "demo-008",
+      "title": "1997 BMW Z3 1.9",
+      "price": 4900,
+      "mileage": 71000,
+      "year": 1997,
+      "engine": "1.9",
+      "source": "Auto Trader",
+      "location": "London",
+      "foundAt": "2026-08-01T12:00:00Z",
+      "url": "https://www.autotrader.co.uk/car-search?make=BMW&model=Z3",
+      "description": "Smart looking roadster. Seller gives mileage and specification but no service, MOT, roof or rust detail.",
+      "isDemo": true,
+      "expectedPrice": 4150,
+      "priceDifference": -18,
+      "dealScore": 5.4,
+      "conditionScore": 1.4,
+      "overallScore": 3.6,
+      "confidence": 100,
+      "reasons": [
+        {
+          "text": "18% above the modelled benchmark",
+          "type": "negative"
+        },
+        {
+          "text": "Rust, corrosion or welding mentioned",
+          "type": "negative"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="theme-color" content="#132a25" />
+    <meta name="description" content="A daily, transparent shortlist of BMW Z3 roadster adverts." />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-title" content="Z3 Scout" />
+    <meta property="og:title" content="Z3 Scout — Daily BMW Z3 deals" />
+    <meta property="og:description" content="The good ones, before they go. Z3 adverts ranked by value, condition and evidence." />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="./assets/og.png" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Z3 Scout — Daily BMW Z3 deals" />
+    <meta name="twitter:description" content="The good ones, before they go." />
+    <meta name="twitter:image" content="./assets/og.png" />
+    <link rel="manifest" href="./manifest.webmanifest" />
+    <link rel="apple-touch-icon" href="./assets/icon-192.png" />
+    <link rel="icon" href="./assets/icon-192.png" />
+    <link rel="stylesheet" href="./styles.css" />
+    <title>Z3 Scout — Daily BMW Z3 deals</title>
+  </head>
+  <body>
+    <div class="app-shell">
+      <header class="masthead">
+        <a class="brand" href="#" aria-label="Z3 Scout home">
+          <span class="brand-mark" aria-hidden="true"><i></i><i></i><i></i></span>
+          <span>Z3 Scout</span>
+        </a>
+        <button class="round-button" id="refreshButton" aria-label="Refresh listings" title="Refresh listings"><span aria-hidden="true">↻</span></button>
+      </header>
+
+      <main>
+        <section class="hero" aria-labelledby="pageTitle">
+          <div class="eyebrow"><span class="live-dot"></span> UK market · <span id="updatedDate">checking…</span></div>
+          <h1 id="pageTitle">The good ones,<br /><em>before they go.</em></h1>
+          <p class="intro">BMW Z3 roadsters ranked by value, advertised condition and how much evidence the seller provides.</p>
+          <div class="pulse-card">
+            <div><span class="label">Today’s field</span><strong id="listingCount">—</strong><small>adverts assessed</small></div>
+            <div><span class="label">Best score</span><strong id="bestScore">—</strong><small>out of 10</small></div>
+            <div><span class="label">Sources</span><strong id="sourceCount">—</strong><small>marketplaces</small></div>
+          </div>
+        </section>
+
+        <section class="notice hidden" id="dataNotice" aria-live="polite"></section>
+
+        <section class="toolbar" aria-label="Listing controls">
+          <div class="toolbar-top">
+            <h2 id="viewTitle">Today’s shortlist</h2>
+            <button class="text-button" id="filterToggle" aria-expanded="false" aria-controls="filterPanel">Filters <span aria-hidden="true">＋</span></button>
+          </div>
+          <div class="filters" id="filterPanel" hidden>
+            <label>Maximum price<select id="priceFilter"><option value="999999">Any price</option><option value="5000">Up to £5,000</option><option value="7500">Up to £7,500</option><option value="10000">Up to £10,000</option><option value="15000">Up to £15,000</option></select></label>
+            <label>Engine<select id="engineFilter"><option value="all">Any engine</option><option value="1.9">1.9</option><option value="2.0">2.0</option><option value="2.2">2.2</option><option value="2.8">2.8</option><option value="3.0">3.0</option><option value="3.2">M Roadster</option></select></label>
+            <label>Sort by<select id="sortFilter"><option value="overall">Best overall</option><option value="deal">Best deal</option><option value="condition">Best condition</option><option value="price">Lowest price</option><option value="newest">Newest advert</option></select></label>
+            <label class="check-label"><input type="checkbox" id="highConfidence" /> Medium/high confidence only</label>
+          </div>
+        </section>
+
+        <section class="listing-grid" id="listingGrid" aria-live="polite"></section>
+        <div class="empty-state hidden" id="emptyState"><span>Nothing in this lane.</span><p>Try widening your filters or add an advert you have found.</p></div>
+
+        <section class="method hidden" id="methodPanel">
+          <p class="eyebrow">The honest bit</p>
+          <h2>A score is a lead,<br />not an inspection.</h2>
+          <div class="method-grid">
+            <article><span>01</span><h3>Deal · 55%</h3><p>Asking price compared with an engine, year and mileage-adjusted benchmark.</p></article>
+            <article><span>02</span><h3>Condition · 45%</h3><p>Evidence in the advert: service history, MOT, roof, rust, damage and known faults.</p></article>
+            <article><span>03</span><h3>Confidence</h3><p>How complete the advert is. Missing facts lower confidence and condition—silence is not proof.</p></article>
+          </div>
+          <div class="red-flags"><strong>Always verify</strong><p>HPI/category status · sill and jacking-point corrosion · rear differential mount · cooling system · roof leaks · service invoices · MOT history.</p></div>
+          <p class="disclaimer">Z3 Scout is a research aid, not a vehicle history check, valuation, mechanical inspection or financial recommendation.</p>
+        </section>
+      </main>
+
+      <button class="add-button" id="addButton" aria-label="Add an advert"><span>＋</span> Add advert</button>
+      <nav class="bottom-nav" aria-label="Main navigation">
+        <button class="nav-item active" data-view="all"><span aria-hidden="true">⌕</span>Scout</button>
+        <button class="nav-item" data-view="saved"><span aria-hidden="true">♡</span>Saved <b id="savedCount">0</b></button>
+        <button class="nav-item" data-view="method"><span aria-hidden="true">◎</span>Method</button>
+      </nav>
+    </div>
+
+    <dialog id="detailDialog" class="sheet"><div id="detailContent"></div></dialog>
+    <dialog id="addDialog" class="sheet add-sheet">
+      <form method="dialog" id="addForm">
+        <div class="sheet-handle"></div>
+        <div class="sheet-head"><div><span class="eyebrow">Your find</span><h2>Add an advert</h2></div><button value="cancel" class="close-button" aria-label="Close">×</button></div>
+        <p class="form-note">Saved only on this device. Give the scorer enough detail to make a fair call.</p>
+        <label>Advert title<input required name="title" placeholder="e.g. 2001 BMW Z3 2.2 Sport" /></label>
+        <div class="form-row"><label>Price (£)<input required min="0" inputmode="numeric" name="price" type="number" placeholder="6250" /></label><label>Mileage<input required min="0" inputmode="numeric" name="mileage" type="number" placeholder="72000" /></label></div>
+        <div class="form-row"><label>Year<input required min="1995" max="2002" inputmode="numeric" name="year" type="number" placeholder="2001" /></label><label>Engine<select required name="engine"><option>1.9</option><option>2.0</option><option>2.2</option><option>2.8</option><option>3.0</option><option value="3.2">M / 3.2</option></select></label></div>
+        <label>Advert link<input required name="url" type="url" placeholder="https://…" /></label>
+        <label>Advert details<textarea name="description" rows="4" placeholder="Full service history, 10 months MOT, hood replaced…"></textarea></label>
+        <button class="primary-button" value="default" type="submit">Score this Z3</button>
+      </form>
+    </dialog>
+    <script src="./app.js" defer></script>
+  </body>
+</html>

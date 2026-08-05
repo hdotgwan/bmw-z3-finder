@@ -1,0 +1,13 @@
+{
+  "provider": "serper",
+  "resultsPerSource": 10,
+  "sources": [
+    {"name":"Auto Trader","query":"site:autotrader.co.uk/car-details BMW Z3 roadster for sale UK -Z4 -coupe","enabled":true},
+    {"name":"Car & Classic","query":"site:carandclassic.com BMW Z3 roadster for sale UK -coupe","enabled":true},
+    {"name":"PistonHeads","query":"site:pistonheads.com/buy/listing BMW Z3 roadster for sale -coupe","enabled":true},
+    {"name":"eBay","query":"site:ebay.co.uk/itm BMW Z3 roadster UK -coupe","enabled":true},
+    {"name":"Motors","query":"site:motors.co.uk BMW Z3 roadster used -coupe","enabled":true},
+    {"name":"Gumtree","query":"site:gumtree.com BMW Z3 roadster for sale UK -coupe","enabled":true},
+    {"name":"Facebook","query":"site:facebook.com/marketplace/item BMW Z3 roadster UK -coupe","enabled":true}
+  ]
+}

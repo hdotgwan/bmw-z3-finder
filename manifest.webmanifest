@@ -1,0 +1,13 @@
+{
+  "name": "Z3 Scout — Daily BMW Z3 Deals",
+  "short_name": "Z3 Scout",
+  "description": "A daily, transparent shortlist of BMW Z3 roadster adverts.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f2efe7",
+  "theme_color": "#132a25",
+  "icons": [
+    {"src":"./assets/icon-192.png","sizes":"192x192","type":"image/png"},
+    {"src":"./assets/icon-512.png","sizes":"512x512","type":"image/png"}
+  ]
+}
