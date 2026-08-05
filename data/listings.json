@@ -1,7 +1,9 @@
 {
-  "generatedAt": "2026-08-05T13:14:53.225610+00:00",
+  "generatedAt": "2026-08-05T13:37:40.390487+00:00",
   "mode": "demo",
-  "warnings": [],
+  "warnings": [
+    "SERPER_API_KEY is not configured; showing demonstration data."
+  ],
   "method": "search-index-previews-and-manual-input",
   "listings": [
     {
