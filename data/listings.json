@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T13:16:03.394533+00:00",
+  "generatedAt": "2026-11-09T16:07:40.536311+00:00",
   "mode": "live",
   "warnings": [
     "No usable Auto Trader previews were returned today.",
@@ -18,7 +18,7 @@
       "year": 1998,
       "engine": "3.2",
       "location": "",
-      "foundAt": "2026-11-08T13:15:54.697581+00:00",
+      "foundAt": "2026-11-09T16:07:33.652025+00:00",
       "isDemo": false,
       "expectedPrice": 20800,
       "priceDifference": 33,
@@ -42,6 +42,74 @@
       ]
     },
     {
+      "id": "web-66b5edac9dbe",
+      "title": "1997 BMW Z3 1.9 Z3 Roadster For Sale By Auction",
+      "description": "Winning bid £2,800 Share Save Highlights Rare Turquoise Green Good overall condition ,267 Miles Engine size1895cc",
+      "url": "https://www.carandclassic.com/auctions/1997-bmw-z3-19-z3-roadster-41NJy8",
+      "source": "Car & Classic",
+      "price": 2800,
+      "mileage": 0,
+      "year": 1997,
+      "engine": "1.9",
+      "location": "",
+      "foundAt": "2026-11-09T16:07:33.652443+00:00",
+      "isDemo": false,
+      "expectedPrice": 4200,
+      "priceDifference": 33,
+      "dealScore": 10.0,
+      "conditionScore": 3.4,
+      "overallScore": 7.0,
+      "confidence": 65,
+      "reasons": [
+        {
+          "text": "33% below the modelled benchmark",
+          "type": "positive"
+        },
+        {
+          "text": "Service evidence is not stated",
+          "type": "neutral"
+        },
+        {
+          "text": "Corrosion condition is not stated",
+          "type": "neutral"
+        }
+      ]
+    },
+    {
+      "id": "web-ba18a46178b9",
+      "title": "Used 1997 BMW Z3 for sale",
+      "description": "1997 BMW Z3. BMW Z3 Z3 ROADSTER 2-Door. £3,599or finance this car. Mileage: 146,000 mi. Prev owners: 0. Engine: 2.8L. Horsepower: 189 BHP. Fuel: Petrol. Gearbox ...",
+      "url": "https://www.pistonheads.com/buy/listing/18562246",
+      "source": "PistonHeads",
+      "price": 3599,
+      "mileage": 0,
+      "year": 1997,
+      "engine": "2.8",
+      "location": "",
+      "foundAt": "2026-11-09T16:07:35.055953+00:00",
+      "isDemo": false,
+      "expectedPrice": 7200,
+      "priceDifference": 50,
+      "dealScore": 10.0,
+      "conditionScore": 3.4,
+      "overallScore": 7.0,
+      "confidence": 65,
+      "reasons": [
+        {
+          "text": "50% below the modelled benchmark",
+          "type": "positive"
+        },
+        {
+          "text": "Service evidence is not stated",
+          "type": "neutral"
+        },
+        {
+          "text": "Corrosion condition is not stated",
+          "type": "neutral"
+        }
+      ]
+    },
+    {
       "id": "web-7cb844d5a4de",
       "title": "Used 1999 BMW Z3 for sale",
       "description": "BMW Z3 ROADSTER £2,9951999 BMW Z3 ROADSTER.COVERED 107,648 miles from new.1895cc 4 CYLINDER, DOUBLE OVERHEAD CAM, 16V, FUEL INJECTED, PETROL ENGINE ...",
@@ -52,7 +120,7 @@
       "year": 1999,
       "engine": "unknown",
       "location": "",
-      "foundAt": "2026-11-08T13:15:57.678750+00:00",
+      "foundAt": "2026-11-09T16:07:35.056021+00:00",
       "isDemo": false,
       "expectedPrice": 5250,
       "priceDifference": 43,
@@ -76,27 +144,27 @@
       ]
     },
     {
-      "id": "web-1f460bdb04ab",
-      "title": "Used Blue z3 for Sale - Cars",
-      "description": "BMW Z3 2.8i WIDE BODY A RARE CAR IN GREAT CONDITION GOING UP IN VALUE. Reddish, Manchester. £5,490. 2000 BMW Z3 3.0 2dr CONVERTIBLE PETROL Manual.",
-      "url": "https://www.gumtree.com/cars-vans-motorbikes/cars/uk/srpsearch+blue+z3",
-      "source": "Gumtree",
-      "price": 5490,
+      "id": "web-ef627505b036",
+      "title": "Used 1999 BMW Z3 for sale",
+      "description": "Check out this BMW Z SERIES Z3 ROADSTER 1999 for sale on PistonHeads. Get in ... BMW Z SERIES Z3 ROADSTER 1999. £1,800. Mileage: 141,000 mi. Prev owners: 0.",
+      "url": "https://www.pistonheads.com/buy/listing/19031243",
+      "source": "PistonHeads",
+      "price": 1800,
       "mileage": 0,
-      "year": 2000,
-      "engine": "2.8",
+      "year": 1999,
+      "engine": "unknown",
       "location": "",
-      "foundAt": "2026-11-08T13:16:01.796913+00:00",
+      "foundAt": "2026-11-09T16:07:35.056056+00:00",
       "isDemo": false,
-      "expectedPrice": 7800,
-      "priceDifference": 30,
+      "expectedPrice": 5800,
+      "priceDifference": 69,
       "dealScore": 10.0,
       "conditionScore": 3.4,
       "overallScore": 7.0,
-      "confidence": 65,
+      "confidence": 50,
       "reasons": [
         {
-          "text": "30% below the modelled benchmark",
+          "text": "69% below the modelled benchmark",
           "type": "positive"
         },
         {
@@ -120,7 +188,7 @@
       "year": 2002,
       "engine": "1.9",
       "location": "",
-      "foundAt": "2026-11-08T13:16:01.796968+00:00",
+      "foundAt": "2026-11-09T16:07:38.634971+00:00",
       "isDemo": false,
       "expectedPrice": 4750,
       "priceDifference": 37,
@@ -146,25 +214,59 @@
     {
       "id": "web-2cf6c72fe1d6",
       "title": "2000 BMW Z3 2.0-Litre Roadster For Sale By Auction",
-      "description": "2000 BMW Z3 2.0-Litre Roadster. Winning bid. £4,200. Share",
+      "description": "2000 BMW Z3 2.0-Litre Roadster For Sale. Winning bid £4,200 - 42,266 miles - run all UK-registered cars and motorbikes for sale on Car & Classic",
       "url": "https://www.carandclassic.com/auctions/2000-bmw-z3-20-litre-roadster-nQmARn",
       "source": "Car & Classic",
       "price": 4200,
-      "mileage": 0,
+      "mileage": 42266,
       "year": 2000,
       "engine": "2.0",
       "location": "",
-      "foundAt": "2026-11-08T13:15:54.698158+00:00",
+      "foundAt": "2026-11-09T16:07:33.652476+00:00",
       "isDemo": false,
-      "expectedPrice": 5350,
-      "priceDifference": 21,
-      "dealScore": 9.3,
+      "expectedPrice": 5700,
+      "priceDifference": 26,
+      "dealScore": 9.8,
       "conditionScore": 3.4,
-      "overallScore": 6.6,
+      "overallScore": 6.9,
+      "confidence": 85,
+      "reasons": [
+        {
+          "text": "26% below the modelled benchmark",
+          "type": "positive"
+        },
+        {
+          "text": "Service evidence is not stated",
+          "type": "neutral"
+        },
+        {
+          "text": "Corrosion condition is not stated",
+          "type": "neutral"
+        }
+      ]
+    },
+    {
+      "id": "web-45327a099035",
+      "title": "Used 2001 BMW Z3 for sale",
+      "description": "2001 BMW Z3. 2001 BMW Z SERIES Z3 SPORT ROADSTER. £5,250or finance this car. Mileage: 61,300 mi. Prev owners: 5. Engine: 2.2L. Horsepower: 168 ...",
+      "url": "https://www.pistonheads.com/buy/listing/21288643",
+      "source": "PistonHeads",
+      "price": 5250,
+      "mileage": 0,
+      "year": 2001,
+      "engine": "2.2",
+      "location": "",
+      "foundAt": "2026-11-09T16:07:35.055991+00:00",
+      "isDemo": false,
+      "expectedPrice": 6500,
+      "priceDifference": 19,
+      "dealScore": 9.1,
+      "conditionScore": 3.4,
+      "overallScore": 6.5,
       "confidence": 65,
       "reasons": [
         {
-          "text": "21% below the modelled benchmark",
+          "text": "19% below the modelled benchmark",
           "type": "positive"
         },
         {
@@ -188,7 +290,7 @@
       "year": 2002,
       "engine": "2.2",
       "location": "",
-      "foundAt": "2026-11-08T13:16:01.797220+00:00",
+      "foundAt": "2026-11-09T16:07:38.635134+00:00",
       "isDemo": false,
       "expectedPrice": 6650,
       "priceDifference": 17,
@@ -222,7 +324,7 @@
       "year": 1999,
       "engine": "2.8",
       "location": "",
-      "foundAt": "2026-11-08T13:16:01.797117+00:00",
+      "foundAt": "2026-11-09T16:07:38.635056+00:00",
       "isDemo": false,
       "expectedPrice": 7600,
       "priceDifference": 8,
@@ -256,7 +358,7 @@
       "year": 1999,
       "engine": "unknown",
       "location": "",
-      "foundAt": "2026-11-08T13:15:54.697884+00:00",
+      "foundAt": "2026-11-09T16:07:33.652238+00:00",
       "isDemo": false,
       "expectedPrice": 5800,
       "priceDifference": 0,
@@ -286,7 +388,7 @@
       "year": 2001,
       "engine": "3.0",
       "location": "",
-      "foundAt": "2026-11-08T13:15:54.697940+00:00",
+      "foundAt": "2026-11-09T16:07:33.652281+00:00",
       "isDemo": false,
       "expectedPrice": 9450,
       "priceDifference": 0,
@@ -320,7 +422,7 @@
       "year": 1999,
       "engine": "unknown",
       "location": "",
-      "foundAt": "2026-11-08T13:15:54.698041+00:00",
+      "foundAt": "2026-11-09T16:07:33.652325+00:00",
       "isDemo": false,
       "expectedPrice": 5800,
       "priceDifference": 0,
@@ -344,47 +446,17 @@
       ]
     },
     {
-      "id": "web-1be202859872",
-      "title": "1997 BMW Z3 in England, United Kingdom - For Sale",
-      "description": "1997 BMW Z3 in England, United Kingdom - For Sale | Car & Classic, £3950 This little cracker has just come in part exchange and one of the Cleanest UK ...",
-      "url": "https://www.carandclassic.com/car/C1343920",
-      "source": "Car & Classic",
-      "price": 0,
-      "mileage": 0,
-      "year": 1997,
-      "engine": "unknown",
-      "location": "",
-      "foundAt": "2026-11-08T13:15:54.698123+00:00",
-      "isDemo": false,
-      "expectedPrice": 5500,
-      "priceDifference": 0,
-      "dealScore": 5.7,
-      "conditionScore": 3.4,
-      "overallScore": 4.7,
-      "confidence": 30,
-      "reasons": [
-        {
-          "text": "Service evidence is not stated",
-          "type": "neutral"
-        },
-        {
-          "text": "Corrosion condition is not stated",
-          "type": "neutral"
-        }
-      ]
-    },
-    {
-      "id": "web-cd2e8070933f",
+      "id": "web-5c5aeaa11d4f",
       "title": "2001 BMW Z3 Blue Manual, 5 speed Right Hand Drive in ...",
       "description": "2001 BMW Z3 Blue Manual, 5 speed Right Hand Drive in Stafford, England, United Kingdom - Wanted | Car & Classic, £12950 NOW SOLD SIMILAR ...",
-      "url": "https://www.carandclassic.com/car/C1979486",
+      "url": "https://www.carandclassic.com/us/car/C1979486",
       "source": "Car & Classic",
       "price": 0,
       "mileage": 0,
       "year": 2001,
       "engine": "unknown",
       "location": "",
-      "foundAt": "2026-11-08T13:15:54.698237+00:00",
+      "foundAt": "2026-11-09T16:07:33.652401+00:00",
       "isDemo": false,
       "expectedPrice": 6100,
       "priceDifference": 0,
@@ -404,19 +476,19 @@
       ]
     },
     {
-      "id": "web-17c7cf444a31",
-      "title": "Used 1999 BMW Z3 for sale",
-      "description": "This BMW Z3 2.8i Roadster boasts a powerful 2.8-litre engine, delivering an impressive 193 bhp and 206 lbs/ft of torque. With its rear-wheel drive and manual ...",
-      "url": "https://www.pistonheads.com/buy/listing/20473263",
-      "source": "PistonHeads",
+      "id": "web-b293c00eba2b",
+      "title": "2001 BMW Z3 3.0i Roadster For Sale By Auction",
+      "description": "Winning bid €17,500. Equipped with M54 3.0-litre straight-six engine Bodywork, registered in the UK and sold. Auction ended:",
+      "url": "https://www.carandclassic.com/auctions/2001-bmw-z3-30i-roadster-8eyEE8",
+      "source": "Car & Classic",
       "price": 0,
       "mileage": 0,
-      "year": 1999,
-      "engine": "2.8",
+      "year": 2001,
+      "engine": "3.0",
       "location": "",
-      "foundAt": "2026-11-08T13:15:57.678650+00:00",
+      "foundAt": "2026-11-09T16:07:33.652518+00:00",
       "isDemo": false,
-      "expectedPrice": 7600,
+      "expectedPrice": 9450,
       "priceDifference": 0,
       "dealScore": 5.7,
       "conditionScore": 3.4,
@@ -434,24 +506,54 @@
       ]
     },
     {
-      "id": "web-41418674e309",
-      "title": "Used 2001 BMW Z3 for sale",
-      "description": "Stunning 2001 BMW Z3 2.2 Sports Roadster Automatic finished in Titanium Silver with a Two-Tone Black and Red Oregon leather Sport Seats.",
-      "url": "https://www.pistonheads.com/buy/listing/20672505",
+      "id": "web-1d58d7a36353",
+      "title": "Used 1998 BMW Z3 for sale",
+      "description": "This 1998 BMW Z3 M Roadster has covered just over 80,000 miles and is finished in the wonderfully vibrant Estoril Blue Metallic, a colour almost synonymous with ...",
+      "url": "https://www.pistonheads.com/buy/listing/21027584",
       "source": "PistonHeads",
       "price": 0,
-      "mileage": 0,
-      "year": 2001,
-      "engine": "2.2",
+      "mileage": 80000,
+      "year": 1998,
+      "engine": "3.2",
       "location": "",
-      "foundAt": "2026-11-08T13:15:57.678954+00:00",
+      "foundAt": "2026-11-09T16:07:35.055831+00:00",
       "isDemo": false,
-      "expectedPrice": 6500,
+      "expectedPrice": 18050,
       "priceDifference": 0,
       "dealScore": 5.7,
       "conditionScore": 3.4,
       "overallScore": 4.7,
-      "confidence": 45,
+      "confidence": 65,
+      "reasons": [
+        {
+          "text": "Service evidence is not stated",
+          "type": "neutral"
+        },
+        {
+          "text": "Corrosion condition is not stated",
+          "type": "neutral"
+        }
+      ]
+    },
+    {
+      "id": "web-6cf862cb4d82",
+      "title": "Used 2000 BMW Z3 for sale",
+      "description": "This car is no longer available for purchase. You can still find your dream car! Browse our live and coming soon auctions or search our classifieds. Browse live ...",
+      "url": "https://www.pistonheads.com/buy/listing/17771459",
+      "source": "PistonHeads",
+      "price": 0,
+      "mileage": 0,
+      "year": 2000,
+      "engine": "unknown",
+      "location": "",
+      "foundAt": "2026-11-09T16:07:35.056124+00:00",
+      "isDemo": false,
+      "expectedPrice": 5950,
+      "priceDifference": 0,
+      "dealScore": 5.7,
+      "conditionScore": 3.4,
+      "overallScore": 4.7,
+      "confidence": 30,
       "reasons": [
         {
           "text": "Service evidence is not stated",
@@ -474,7 +576,7 @@
       "year": 0,
       "engine": "unknown",
       "location": "",
-      "foundAt": "2026-11-08T13:15:58.752200+00:00",
+      "foundAt": "2026-11-09T16:07:36.362395+00:00",
       "isDemo": false,
       "expectedPrice": 5800,
       "priceDifference": 0,
@@ -482,6 +584,36 @@
       "conditionScore": 3.4,
       "overallScore": 4.7,
       "confidence": 15,
+      "reasons": [
+        {
+          "text": "Service evidence is not stated",
+          "type": "neutral"
+        },
+        {
+          "text": "Corrosion condition is not stated",
+          "type": "neutral"
+        }
+      ]
+    },
+    {
+      "id": "web-fe1ea46429b7",
+      "title": "BMW Z3 Roadster 1997-1998 UK Market Sales Brochure ...",
+      "description": "BMW Z3 Roadster 1997-1998 UK Market Sales Brochure 1.9 & 2.8 ; Est. delivery. Wed, 7 Oct - Fri, 9 Oct. From Cheshire, United Kingdom. eBay International Shipping.",
+      "url": "https://www.ebay.co.uk/itm/187385545838",
+      "source": "eBay",
+      "price": 0,
+      "mileage": 0,
+      "year": 1997,
+      "engine": "1.9",
+      "location": "",
+      "foundAt": "2026-11-09T16:07:36.362491+00:00",
+      "isDemo": false,
+      "expectedPrice": 4200,
+      "priceDifference": 0,
+      "dealScore": 5.7,
+      "conditionScore": 3.4,
+      "overallScore": 4.7,
+      "confidence": 45,
       "reasons": [
         {
           "text": "Service evidence is not stated",
@@ -504,7 +636,7 @@
       "year": 0,
       "engine": "unknown",
       "location": "",
-      "foundAt": "2026-11-08T13:15:58.752284+00:00",
+      "foundAt": "2026-11-09T16:07:36.362538+00:00",
       "isDemo": false,
       "expectedPrice": 5800,
       "priceDifference": 0,
@@ -512,36 +644,6 @@
       "conditionScore": 3.4,
       "overallScore": 4.7,
       "confidence": 15,
-      "reasons": [
-        {
-          "text": "Service evidence is not stated",
-          "type": "neutral"
-        },
-        {
-          "text": "Corrosion condition is not stated",
-          "type": "neutral"
-        }
-      ]
-    },
-    {
-      "id": "web-10d205f50047",
-      "title": "BMW Z3 Roadster 2000-2001 UK Market Sales Brochure ...",
-      "description": "Original UK market colour sales brochure illustrating and describing the BMW Z3 Roadster 1.9i, 2.2i & 3.0i models including exterior colours and interior trims.",
-      "url": "https://www.ebay.co.uk/itm/186386061974",
-      "source": "eBay",
-      "price": 0,
-      "mileage": 0,
-      "year": 2000,
-      "engine": "1.9",
-      "location": "",
-      "foundAt": "2026-11-08T13:15:58.752351+00:00",
-      "isDemo": false,
-      "expectedPrice": 4500,
-      "priceDifference": 0,
-      "dealScore": 5.7,
-      "conditionScore": 3.4,
-      "overallScore": 4.7,
-      "confidence": 45,
       "reasons": [
         {
           "text": "Service evidence is not stated",
@@ -564,7 +666,7 @@
       "year": 0,
       "engine": "2.8",
       "location": "",
-      "foundAt": "2026-11-08T13:15:58.752417+00:00",
+      "foundAt": "2026-11-09T16:07:36.362582+00:00",
       "isDemo": false,
       "expectedPrice": 7600,
       "priceDifference": 0,
@@ -594,7 +696,7 @@
       "year": 0,
       "engine": "unknown",
       "location": "",
-      "foundAt": "2026-11-08T13:15:58.752483+00:00",
+      "foundAt": "2026-11-09T16:07:36.362631+00:00",
       "isDemo": false,
       "expectedPrice": 5800,
       "priceDifference": 0,
@@ -624,7 +726,7 @@
       "year": 0,
       "engine": "unknown",
       "location": "",
-      "foundAt": "2026-11-08T13:15:58.752558+00:00",
+      "foundAt": "2026-11-09T16:07:36.362671+00:00",
       "isDemo": false,
       "expectedPrice": 5800,
       "priceDifference": 0,
@@ -654,7 +756,7 @@
       "year": 1995,
       "engine": "unknown",
       "location": "",
-      "foundAt": "2026-11-08T13:15:58.752616+00:00",
+      "foundAt": "2026-11-09T16:07:36.362708+00:00",
       "isDemo": false,
       "expectedPrice": 5200,
       "priceDifference": 0,
@@ -684,7 +786,7 @@
       "year": 0,
       "engine": "unknown",
       "location": "",
-      "foundAt": "2026-11-08T13:15:58.752661+00:00",
+      "foundAt": "2026-11-09T16:07:36.362737+00:00",
       "isDemo": false,
       "expectedPrice": 5800,
       "priceDifference": 0,
@@ -714,7 +816,7 @@
       "year": 0,
       "engine": "unknown",
       "location": "",
-      "foundAt": "2026-11-08T13:15:58.752728+00:00",
+      "foundAt": "2026-11-09T16:07:36.362781+00:00",
       "isDemo": false,
       "expectedPrice": 5800,
       "priceDifference": 0,
@@ -744,7 +846,7 @@
       "year": 0,
       "engine": "unknown",
       "location": "",
-      "foundAt": "2026-11-08T13:15:58.752793+00:00",
+      "foundAt": "2026-11-09T16:07:36.362827+00:00",
       "isDemo": false,
       "expectedPrice": 5800,
       "priceDifference": 0,
@@ -774,7 +876,7 @@
       "year": 1999,
       "engine": "2.8",
       "location": "",
-      "foundAt": "2026-11-08T13:16:01.796791+00:00",
+      "foundAt": "2026-11-09T16:07:38.634810+00:00",
       "isDemo": false,
       "expectedPrice": 7600,
       "priceDifference": 0,
@@ -804,7 +906,7 @@
       "year": 0,
       "engine": "1.9",
       "location": "",
-      "foundAt": "2026-11-08T13:16:01.796863+00:00",
+      "foundAt": "2026-11-09T16:07:38.634924+00:00",
       "isDemo": false,
       "expectedPrice": 4050,
       "priceDifference": 0,
@@ -834,7 +936,7 @@
       "year": 2002,
       "engine": "1.9",
       "location": "",
-      "foundAt": "2026-11-08T13:16:01.797020+00:00",
+      "foundAt": "2026-11-09T16:07:38.635017+00:00",
       "isDemo": false,
       "expectedPrice": 4750,
       "priceDifference": -15,
@@ -868,7 +970,7 @@
       "year": 2002,
       "engine": "1.9",
       "location": "",
-      "foundAt": "2026-11-08T13:16:01.797269+00:00",
+      "foundAt": "2026-11-09T16:07:38.635172+00:00",
       "isDemo": false,
       "expectedPrice": 4750,
       "priceDifference": -15,
@@ -902,7 +1004,7 @@
       "year": 0,
       "engine": "2.0",
       "location": "",
-      "foundAt": "2026-11-08T13:16:03.385313+00:00",
+      "foundAt": "2026-11-09T16:07:40.529122+00:00",
       "isDemo": false,
       "expectedPrice": 5200,
       "priceDifference": 0,
@@ -932,7 +1034,7 @@
       "year": 0,
       "engine": "1.9",
       "location": "",
-      "foundAt": "2026-11-08T13:16:03.385383+00:00",
+      "foundAt": "2026-11-09T16:07:40.529175+00:00",
       "isDemo": false,
       "expectedPrice": 4400,
       "priceDifference": 0,
@@ -962,7 +1064,7 @@
       "year": 1997,
       "engine": "unknown",
       "location": "",
-      "foundAt": "2026-11-08T13:16:03.385471+00:00",
+      "foundAt": "2026-11-09T16:07:40.529236+00:00",
       "isDemo": false,
       "expectedPrice": 5500,
       "priceDifference": 0,
@@ -992,7 +1094,7 @@
       "year": 0,
       "engine": "unknown",
       "location": "",
-      "foundAt": "2026-11-08T13:16:03.385532+00:00",
+      "foundAt": "2026-11-09T16:07:40.529319+00:00",
       "isDemo": false,
       "expectedPrice": 5800,
       "priceDifference": 0,
@@ -1000,66 +1102,6 @@
       "conditionScore": 3.4,
       "overallScore": 4.7,
       "confidence": 15,
-      "reasons": [
-        {
-          "text": "Service evidence is not stated",
-          "type": "neutral"
-        },
-        {
-          "text": "Corrosion condition is not stated",
-          "type": "neutral"
-        }
-      ]
-    },
-    {
-      "id": "web-b4af896f6b8c",
-      "title": "BMW Z3 roll bar, powder coated gloss black",
-      "description": "With a length of 2 meters, these rear placement roll bars provide protection and stability for your vehicle while driving. Upgrade your BMW Z3 with this premium ...",
-      "url": "https://www.facebook.com/marketplace/item/2195697637650862/?ref=search&referral_code=null&referral_story_type=post",
-      "source": "Facebook",
-      "price": 0,
-      "mileage": 0,
-      "year": 0,
-      "engine": "unknown",
-      "location": "",
-      "foundAt": "2026-11-08T13:16:03.385583+00:00",
-      "isDemo": false,
-      "expectedPrice": 5800,
-      "priceDifference": 0,
-      "dealScore": 5.7,
-      "conditionScore": 3.4,
-      "overallScore": 4.7,
-      "confidence": 15,
-      "reasons": [
-        {
-          "text": "Service evidence is not stated",
-          "type": "neutral"
-        },
-        {
-          "text": "Corrosion condition is not stated",
-          "type": "neutral"
-        }
-      ]
-    },
-    {
-      "id": "web-f0e55241bd93",
-      "title": "Ferrysburg, Michigan - RCMP and UK Police Hats",
-      "description": "1997 BMW Z3 · 6-Cyl Roadster 2D for sale - Used - US$. US$ 6.800. 1997 BMW Z3 · 6-Cyl Roadster 2D. Shelby, MI. 177 илј. милји · Arrma Kraton V6 BLX for sale ...",
-      "url": "https://www.facebook.com/marketplace/item/1466397455046126/?locale=mk_MK",
-      "source": "Facebook",
-      "price": 0,
-      "mileage": 0,
-      "year": 1997,
-      "engine": "unknown",
-      "location": "",
-      "foundAt": "2026-11-08T13:16:03.385646+00:00",
-      "isDemo": false,
-      "expectedPrice": 5500,
-      "priceDifference": 0,
-      "dealScore": 5.7,
-      "conditionScore": 3.4,
-      "overallScore": 4.7,
-      "confidence": 30,
       "reasons": [
         {
           "text": "Service evidence is not stated",
@@ -1082,7 +1124,7 @@
       "year": 2000,
       "engine": "1.9",
       "location": "",
-      "foundAt": "2026-11-08T13:16:03.385699+00:00",
+      "foundAt": "2026-11-09T16:07:40.529363+00:00",
       "isDemo": false,
       "expectedPrice": 4500,
       "priceDifference": 0,
@@ -1102,17 +1144,17 @@
       ]
     },
     {
-      "id": "web-11e8b82c0490",
-      "title": "Property For Sale - Windhoek, Namibia - Facebook",
-      "description": "This listing is no longer available It may have been sold or expired. 1997 BMW Z3 · 2.3 Roadster 2D for sale - Used - $3554 in San Francisco $3554 1997 BMW Z3",
-      "url": "https://www.facebook.com/marketplace/item/1273257360030659/?locale=be_BY",
+      "id": "web-f0e55241bd93",
+      "title": "Ferrysburg, Michigan - RCMP and UK Police Hats",
+      "description": "1997 BMW Z3 · 6-Cyl Roadster 2D for sale - Used - US$. US$ 6.800. 1997 BMW Z3 · 6-Cyl Roadster 2D. Shelby, MI. 177 илј. милји · Arrma Kraton V6 BLX for sale ...",
+      "url": "https://www.facebook.com/marketplace/item/1466397455046126/?locale=mk_MK",
       "source": "Facebook",
       "price": 0,
       "mileage": 0,
       "year": 1997,
       "engine": "unknown",
       "location": "",
-      "foundAt": "2026-11-08T13:16:03.385793+00:00",
+      "foundAt": "2026-11-09T16:07:40.529414+00:00",
       "isDemo": false,
       "expectedPrice": 5500,
       "priceDifference": 0,
@@ -1120,6 +1162,36 @@
       "conditionScore": 3.4,
       "overallScore": 4.7,
       "confidence": 30,
+      "reasons": [
+        {
+          "text": "Service evidence is not stated",
+          "type": "neutral"
+        },
+        {
+          "text": "Corrosion condition is not stated",
+          "type": "neutral"
+        }
+      ]
+    },
+    {
+      "id": "web-b4af896f6b8c",
+      "title": "BMW Z3 roll bar, powder coated gloss black",
+      "description": "With a length of 2 meters, these rear placement roll bars provide protection and stability for your vehicle while driving. Upgrade your BMW Z3 with this premium ...",
+      "url": "https://www.facebook.com/marketplace/item/2195697637650862/?ref=search&referral_code=null&referral_story_type=post",
+      "source": "Facebook",
+      "price": 0,
+      "mileage": 0,
+      "year": 0,
+      "engine": "unknown",
+      "location": "",
+      "foundAt": "2026-11-09T16:07:40.529487+00:00",
+      "isDemo": false,
+      "expectedPrice": 5800,
+      "priceDifference": 0,
+      "dealScore": 5.7,
+      "conditionScore": 3.4,
+      "overallScore": 4.7,
+      "confidence": 15,
       "reasons": [
         {
           "text": "Service evidence is not stated",
@@ -1142,7 +1214,7 @@
       "year": 1998,
       "engine": "1.9",
       "location": "",
-      "foundAt": "2026-11-08T13:15:57.678839+00:00",
+      "foundAt": "2026-11-09T16:07:35.056089+00:00",
       "isDemo": false,
       "expectedPrice": 4300,
       "priceDifference": -16,
@@ -1176,7 +1248,7 @@
       "year": 2001,
       "engine": "unknown",
       "location": "",
-      "foundAt": "2026-11-08T13:16:03.385739+00:00",
+      "foundAt": "2026-11-09T16:07:40.529271+00:00",
       "isDemo": false,
       "expectedPrice": 5200,
       "priceDifference": 0,
@@ -1200,65 +1272,27 @@
       ]
     },
     {
-      "id": "web-546043fb3e8f",
-      "title": "Used 1999 BMW Z3 for sale",
-      "description": "1999 BMW Z3. 1999 (T) BMW Z3M 3.2 Roadster Manual. Cosmos Black Metallic with Grey Leather. 54k. FSH.. Air Con. Great Example.. £29,950or finance this car.",
-      "url": "https://www.pistonheads.com/buy/listing/20941171",
-      "source": "PistonHeads",
-      "price": 29950,
+      "id": "web-e73c261b2d98",
+      "title": "8 ads Used Blue BMW Z3 Cars for Sale",
+      "description": "Find amazing local prices on used Blue BMW Z3 cars for sale ✓ ・ £9,900 1 Finance from £208 ・ 2001 BMW Z3 2.2i Roadster 2dr Petrol",
+      "url": "https://www.gumtree.com/cars-vans-motorbikes/cars/bmw/z3/blue",
+      "source": "Gumtree",
+      "price": 9900,
       "mileage": 0,
-      "year": 1999,
-      "engine": "3.2",
+      "year": 2001,
+      "engine": "2.2",
       "location": "",
-      "foundAt": "2026-11-08T13:15:57.678915+00:00",
+      "foundAt": "2026-11-09T16:07:38.634873+00:00",
       "isDemo": false,
-      "expectedPrice": 19000,
-      "priceDifference": -58,
-      "dealScore": 1.4,
-      "conditionScore": 5.4,
-      "overallScore": 3.2,
-      "confidence": 80,
-      "reasons": [
-        {
-          "text": "58% above the modelled benchmark",
-          "type": "negative"
-        },
-        {
-          "text": "Full service history claimed",
-          "type": "positive"
-        },
-        {
-          "text": "Service evidence is not stated",
-          "type": "neutral"
-        },
-        {
-          "text": "Corrosion condition is not stated",
-          "type": "neutral"
-        }
-      ]
-    },
-    {
-      "id": "web-8b5e7d568f75",
-      "title": "2000 BMW Z3 2.0 Roadster Manual For Sale By Auction",
-      "description": "2000 BMW Z3 2.0 Roadster Manual. Winning bid. £7,700. Share",
-      "url": "https://www.carandclassic.com/auctions/2000-bmw-z3-20-roadster-gDdqxg",
-      "source": "Car & Classic",
-      "price": 7700,
-      "mileage": 0,
-      "year": 2000,
-      "engine": "2.0",
-      "location": "",
-      "foundAt": "2026-11-08T13:15:54.698189+00:00",
-      "isDemo": false,
-      "expectedPrice": 5350,
-      "priceDifference": -44,
-      "dealScore": 2.8,
+      "expectedPrice": 6500,
+      "priceDifference": -52,
+      "dealScore": 2.0,
       "conditionScore": 3.4,
-      "overallScore": 3.1,
+      "overallScore": 2.6,
       "confidence": 65,
       "reasons": [
         {
-          "text": "44% above the modelled benchmark",
+          "text": "52% above the modelled benchmark",
           "type": "negative"
         },
         {
@@ -1274,7 +1308,7 @@
     {
       "id": "web-fc1fe85164c7",
       "title": "Used 2000 BMW Z3 for sale",
-      "description": "A Pre-Facelift Wide-Body BMW Z3 2.8 Roadster Manual with Just 20804 Miles for sale on PistonHeads. Just 20,804 Miles £13,995 Mileage 20,706 mi ...",
+      "description": "2000 BMW Z3. A Pre-Facelift Wide-Body BMW Z3 2.8 Roadster Manual with Just 20,804 Miles. £13,995. Mileage ...",
       "url": "https://www.pistonheads.com/buy/listing/21252092",
       "source": "PistonHeads",
       "price": 13995,
@@ -1282,7 +1316,7 @@
       "year": 2000,
       "engine": "2.8",
       "location": "",
-      "foundAt": "2026-11-08T13:15:57.678707+00:00",
+      "foundAt": "2026-11-09T16:07:35.055912+00:00",
       "isDemo": false,
       "expectedPrice": 8750,
       "priceDifference": -60,
@@ -1308,25 +1342,25 @@
     {
       "id": "web-e6d5e15239ff",
       "title": "BMW Z3 2.8 roadster For Sale",
-      "description": "A Pre-Facelift Wide-Body BMW Z3 2.8 Roadster Manual. 2793cc · Petrol · 20,804 miles · Manual · 5 speed · RHD. £13,995 ; 1997 BMW Z3 2.8 Roadster E36/7. 2800cc · ...",
+      "description": "BMW Z3 2.8 Roadster Manual 2793cc · Petrol · 20,804 miles · Manual · 5 speed · RHD £13,995 Spotlight",
       "url": "https://www.carandclassic.com/list/10/z3%202.8%20roadster/",
       "source": "Car & Classic",
       "price": 13995,
       "mileage": 20804,
-      "year": 1997,
+      "year": 0,
       "engine": "2.8",
       "location": "",
-      "foundAt": "2026-11-08T13:15:54.697649+00:00",
+      "foundAt": "2026-11-09T16:07:33.652077+00:00",
       "isDemo": false,
-      "expectedPrice": 8100,
-      "priceDifference": -73,
+      "expectedPrice": 8550,
+      "priceDifference": -64,
       "dealScore": 1.0,
       "conditionScore": 3.4,
       "overallScore": 2.1,
-      "confidence": 85,
+      "confidence": 70,
       "reasons": [
         {
-          "text": "73% above the modelled benchmark",
+          "text": "64% above the modelled benchmark",
           "type": "negative"
         },
         {
@@ -1350,7 +1384,7 @@
       "year": 2000,
       "engine": "2.0",
       "location": "",
-      "foundAt": "2026-11-08T13:15:54.697992+00:00",
+      "foundAt": "2026-11-09T16:07:33.652363+00:00",
       "isDemo": false,
       "expectedPrice": 5550,
       "priceDifference": -531,
@@ -1384,7 +1418,7 @@
       "year": 2001,
       "engine": "2.2",
       "location": "",
-      "foundAt": "2026-11-08T13:15:57.678790+00:00",
+      "foundAt": "2026-11-09T16:07:35.055883+00:00",
       "isDemo": false,
       "expectedPrice": 6500,
       "priceDifference": -100,
@@ -1408,61 +1442,27 @@
       ]
     },
     {
-      "id": "web-1226f64413b6",
-      "title": "Used 2002 BMW for sale",
-      "description": "A Phenomenal BMW Z3 1.9i Roadster with Just 11867 Miles. Just 11,867 Miles from New £10,995 Mileage 11,867 mi Prev owners 3 Engine 1.9L ...",
-      "url": "https://www.pistonheads.com/buy/listing/21196134",
+      "id": "web-ec66251a00b9",
+      "title": "Used 1998 BMW Z3 for sale",
+      "description": "1998 BMW Z3. BMW Z3 M (S Reg) 3.2 Roadster. £49,990. Mileage: 4,786 mi. Prev owners: 2. Engine: 3.2L. Horsepower: 316 BHP. Fuel: Petrol. Gearbox ...",
+      "url": "https://www.pistonheads.com/buy/listing/21249781",
       "source": "PistonHeads",
-      "price": 10995,
-      "mileage": 11867,
-      "year": 2002,
-      "engine": "1.9",
-      "location": "",
-      "foundAt": "2026-11-08T13:15:57.678875+00:00",
-      "isDemo": false,
-      "expectedPrice": 5400,
-      "priceDifference": -104,
-      "dealScore": 1.0,
-      "conditionScore": 3.4,
-      "overallScore": 2.1,
-      "confidence": 85,
-      "reasons": [
-        {
-          "text": "104% above the modelled benchmark",
-          "type": "negative"
-        },
-        {
-          "text": "Service evidence is not stated",
-          "type": "neutral"
-        },
-        {
-          "text": "Corrosion condition is not stated",
-          "type": "neutral"
-        }
-      ]
-    },
-    {
-      "id": "web-b1ce6b5bcf2c",
-      "title": "Used 1999 BMW Z3 for sale",
-      "description": "BMW Z3 2.8i Roadster 2dr Petrol Manual (225 g/km, 193 bhp). £12,990or finance this car. Home Delivery",
-      "url": "https://www.pistonheads.com/buy/listing/18684066",
-      "source": "PistonHeads",
-      "price": 12990,
+      "price": 49990,
       "mileage": 0,
-      "year": 1999,
-      "engine": "2.8",
+      "year": 1998,
+      "engine": "3.2",
       "location": "",
-      "foundAt": "2026-11-08T13:15:57.678990+00:00",
+      "foundAt": "2026-11-09T16:07:35.056157+00:00",
       "isDemo": false,
-      "expectedPrice": 7600,
-      "priceDifference": -71,
+      "expectedPrice": 18500,
+      "priceDifference": -170,
       "dealScore": 1.0,
       "conditionScore": 3.4,
       "overallScore": 2.1,
       "confidence": 65,
       "reasons": [
         {
-          "text": "71% above the modelled benchmark",
+          "text": "170% above the modelled benchmark",
           "type": "negative"
         },
         {
@@ -1486,7 +1486,7 @@
       "year": 2001,
       "engine": "2.2",
       "location": "",
-      "foundAt": "2026-11-08T13:16:01.797171+00:00",
+      "foundAt": "2026-11-09T16:07:38.635097+00:00",
       "isDemo": false,
       "expectedPrice": 6500,
       "priceDifference": -69,
