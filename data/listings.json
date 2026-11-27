@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T16:47:58.157655+00:00",
+  "generatedAt": "2026-11-27T16:33:22.236499+00:00",
   "mode": "live",
   "warnings": [
     "No usable Auto Trader previews were returned today.",
@@ -7,40 +7,6 @@
   ],
   "method": "search-index-previews-and-manual-input",
   "listings": [
-    {
-      "id": "web-ba18a46178b9",
-      "title": "Used 1997 BMW Z3 for sale",
-      "description": "1997 BMW Z3. BMW Z3 Z3 ROADSTER 2-Door. £3,599or finance this car. Mileage: 146,000 mi. Prev owners: 0. Engine: 2.8L. Horsepower: 189 BHP. Fuel: Petrol. Gearbox ...",
-      "url": "https://www.pistonheads.com/buy/listing/18562246",
-      "source": "PistonHeads",
-      "price": 3599,
-      "mileage": 0,
-      "year": 1997,
-      "engine": "2.8",
-      "location": "",
-      "foundAt": "2026-11-26T16:47:48.537761+00:00",
-      "isDemo": false,
-      "expectedPrice": 7200,
-      "priceDifference": 50,
-      "dealScore": 10.0,
-      "conditionScore": 3.4,
-      "overallScore": 7.0,
-      "confidence": 65,
-      "reasons": [
-        {
-          "text": "50% below the modelled benchmark",
-          "type": "positive"
-        },
-        {
-          "text": "Service evidence is not stated",
-          "type": "neutral"
-        },
-        {
-          "text": "Corrosion condition is not stated",
-          "type": "neutral"
-        }
-      ]
-    },
     {
       "id": "web-d358a226b716",
       "title": "143 bhp 62000 mls BMW Z3 1.9i 5 speed manual",
@@ -52,7 +18,7 @@
       "year": 1997,
       "engine": "1.9",
       "location": "",
-      "foundAt": "2026-11-26T16:47:47.067245+00:00",
+      "foundAt": "2026-11-27T16:33:13.532562+00:00",
       "isDemo": false,
       "expectedPrice": 4200,
       "priceDifference": 0,
@@ -73,16 +39,16 @@
     },
     {
       "id": "web-d0d68c6d60df",
-      "title": "NOT USED Reebok INSTAPUMP FURY UNISEX — CHROMAT ...",
-      "description": "1997 BMW Z3 Roadster for sale - Used - 1900 GBP in Bedworth, Warwickshire. 1900 GBP. 1997 BMW Z3 Roadster. Bedworth, Warwickshire. 136 E km · Rolex Sky Dweller ...",
-      "url": "https://www.google.com/goto?url=CAEShAEBxCJF10xCib2j7bS9hyqg2eh4vRooaTjVZ-ILskUQCBKwifovaMfFx5Bcv3y3omtWM1QtCMSrskzAF6E9-qHOt9Lw1SYxVdQjyhPvQCjlP9EqVsvEHA0JRkEe1TQG9Wo9J2H9tC2wfaTGA9Cl9izZ04fRNF19rNXJB0nJZW84H4fh4G8&gsessionid=2OSYvI1Y3gCUc4b6GJBuYTrcqNJ93CpY0ewU_tp1oOsDjtBKzon97g",
+      "title": "Porsche cayman 981/ 2,7cc 2013 used - Marketplace",
+      "description": "1997 Original BMW Z3 Roadster 1.9cc Auto. MYR120.000 · 2024 PORSCHE 911 CARRERA. MYR8 ... 2022 PORSCHE 911 GT3 UK (992.1) High Specs for sale ...",
+      "url": "https://www.google.com/goto?url=CAEShAEBxCJF1_IcKNujAQMQAph_KP9YCVuLveCecbijkrVakCS9eIJV3h_2sp2pGM83Fdv_GLZhMzXuugVhhwUwfDzqJi4U57FVe2cPwZKqRDQnV6NDIGXdLlhqc6yVcPCMB5iAvFrT9BLs4_QtJ9TbGrALnwq25GH58VqWJ_wQyJL5hknGVQM&gsessionid=mufYd3muf5QDOXBgCNO9Giu6hAgVQfb0WL2z73FHx43c2mDBo-WHQg",
       "source": "Facebook",
       "price": 0,
       "mileage": 0,
       "year": 1997,
       "engine": "unknown",
       "location": "",
-      "foundAt": "2026-11-26T16:47:58.151277+00:00",
+      "foundAt": "2026-11-27T16:33:22.231861+00:00",
       "isDemo": false,
       "expectedPrice": 5500,
       "priceDifference": 0,
@@ -102,24 +68,24 @@
       ]
     },
     {
-      "id": "web-6442acda20de",
-      "title": "1999 BMW Z3 Roadster price list & specifications booklet - -",
-      "description": "An original 1999 BMW Z3 Roadster car price list & specifications booklet for the cars sold in the England. It is a 10 page booklet the was published by BMW GB.",
-      "url": "https://www.ebay.co.uk/itm/264720318952",
-      "source": "eBay",
+      "id": "web-17c7cf444a31",
+      "title": "Used 1999 BMW Z3 for sale",
+      "description": "This BMW Z3 2.8i Roadster boasts a powerful 2.8-litre engine, delivering an impressive 193 bhp and 206 lbs/ft of torque. With its rear-wheel drive and manual ...",
+      "url": "https://www.pistonheads.com/buy/listing/20473263",
+      "source": "PistonHeads",
       "price": 0,
       "mileage": 0,
       "year": 1999,
-      "engine": "unknown",
+      "engine": "2.8",
       "location": "",
-      "foundAt": "2026-11-26T16:47:50.571214+00:00",
+      "foundAt": "2026-11-27T16:33:15.373884+00:00",
       "isDemo": false,
-      "expectedPrice": 5800,
+      "expectedPrice": 7600,
       "priceDifference": 0,
       "dealScore": 5.7,
       "conditionScore": 3.4,
       "overallScore": 4.7,
-      "confidence": 30,
+      "confidence": 45,
       "reasons": [
         {
           "text": "Service evidence is not stated",
@@ -142,7 +108,7 @@
       "year": 0,
       "engine": "2.8",
       "location": "",
-      "foundAt": "2026-11-26T16:47:50.571264+00:00",
+      "foundAt": "2026-11-27T16:33:17.598909+00:00",
       "isDemo": false,
       "expectedPrice": 7600,
       "priceDifference": 0,
@@ -150,36 +116,6 @@
       "conditionScore": 3.4,
       "overallScore": 4.7,
       "confidence": 30,
-      "reasons": [
-        {
-          "text": "Service evidence is not stated",
-          "type": "neutral"
-        },
-        {
-          "text": "Corrosion condition is not stated",
-          "type": "neutral"
-        }
-      ]
-    },
-    {
-      "id": "web-3f589a2dc084",
-      "title": "Rare BMW Z3 Roadster Book Published By BMW Free P&P",
-      "description": "This book delves into the topic of the BMW Z3 Roadster in a comprehensive and informative manner. The cover has embossed detail on the shark fin bonnet grills.",
-      "url": "https://www.ebay.co.uk/itm/147512696449?itmmeta=01M0DY54WJN9JAN7WKYDSVH42R&hash=item2258711e81:g:cDUAAeSwlyZqhDrt&itmprp=enc%3AAQALAAAA4DKQclQvzFwZQpmMrsO4LuqTeVv%2B7a5nEl9Kl7tRyH2KaL1sqxYlF3%2Fjs8m1lBxYIt5BnNAfnc9cGy7oSufZ9KSwjrz2GA%2B9yVTctB7M09SA3%2Fiv9FB9isSmZrV91WbFKHlUvsgTdHcZ7nUPnoeIPT7x4t5xfqvqjAgWJDC86DrbqtLA5%2BA4d9ML37qF5PNeD%2BsdASekP%2FVpCURdzTC5h%2BCYRguzBiafEKsd5gLo4nXTlNQa7MeTttbxVC7hDN%2FejaPI%2BHC2L6ARQs%2BoIUxCc6CuDGopCgcrMJEEcXV7EFsl%7Ctkp%3ABk9SR8LOlL6DaA",
-      "source": "eBay",
-      "price": 0,
-      "mileage": 0,
-      "year": 0,
-      "engine": "unknown",
-      "location": "",
-      "foundAt": "2026-11-26T16:47:50.571307+00:00",
-      "isDemo": false,
-      "expectedPrice": 5800,
-      "priceDifference": 0,
-      "dealScore": 5.7,
-      "conditionScore": 3.4,
-      "overallScore": 4.7,
-      "confidence": 15,
       "reasons": [
         {
           "text": "Service evidence is not stated",
@@ -202,7 +138,7 @@
       "year": 0,
       "engine": "1.9",
       "location": "",
-      "foundAt": "2026-11-26T16:47:54.340251+00:00",
+      "foundAt": "2026-11-27T16:33:20.854534+00:00",
       "isDemo": false,
       "expectedPrice": 4050,
       "priceDifference": 0,
@@ -210,36 +146,6 @@
       "conditionScore": 3.4,
       "overallScore": 4.7,
       "confidence": 50,
-      "reasons": [
-        {
-          "text": "Service evidence is not stated",
-          "type": "neutral"
-        },
-        {
-          "text": "Corrosion condition is not stated",
-          "type": "neutral"
-        }
-      ]
-    },
-    {
-      "id": "web-b90dbbd4b5a8",
-      "title": "PARTING OUT 1997 bmw z3 2.8 110xxxkm manual 5 speed",
-      "description": "PARTING OUT 1997 bmw z3 2.8 110xxxkm manual 5 speed See pictures.. let me know what parts your looking for and I'll get back to you with prices and...",
-      "url": "https://www.facebook.com/marketplace/item/992784789928812/",
-      "source": "Facebook",
-      "price": 0,
-      "mileage": 0,
-      "year": 1997,
-      "engine": "2.8",
-      "location": "",
-      "foundAt": "2026-11-26T16:47:58.151011+00:00",
-      "isDemo": false,
-      "expectedPrice": 7200,
-      "priceDifference": 0,
-      "dealScore": 5.7,
-      "conditionScore": 3.4,
-      "overallScore": 4.7,
-      "confidence": 45,
       "reasons": [
         {
           "text": "Service evidence is not stated",
@@ -262,7 +168,7 @@
       "year": 0,
       "engine": "1.9",
       "location": "",
-      "foundAt": "2026-11-26T16:47:58.151060+00:00",
+      "foundAt": "2026-11-27T16:33:22.231635+00:00",
       "isDemo": false,
       "expectedPrice": 4400,
       "priceDifference": 0,
@@ -271,70 +177,6 @@
       "overallScore": 4.7,
       "confidence": 30,
       "reasons": [
-        {
-          "text": "Service evidence is not stated",
-          "type": "neutral"
-        },
-        {
-          "text": "Corrosion condition is not stated",
-          "type": "neutral"
-        }
-      ]
-    },
-    {
-      "id": "web-e9f9af9db834",
-      "title": "1993 BMW E30 M3 Pillarless 102 000km - Cars & Trucks",
-      "description": "BMW Z3 ROADSTER for sale - Used - ZAR90,000 in Queensburgh, eThekwini. ZAR90,000. BMW Z3 ROADSTER ; 2008 BMW m3 convertible for sale - Used - Good - ZAR529,990 ...",
-      "url": "https://www.facebook.com/marketplace/item/2537341640096485/",
-      "source": "Facebook",
-      "price": 0,
-      "mileage": 0,
-      "year": 0,
-      "engine": "unknown",
-      "location": "",
-      "foundAt": "2026-11-26T16:47:58.151111+00:00",
-      "isDemo": false,
-      "expectedPrice": 5800,
-      "priceDifference": 0,
-      "dealScore": 5.7,
-      "conditionScore": 3.4,
-      "overallScore": 4.7,
-      "confidence": 15,
-      "reasons": [
-        {
-          "text": "Service evidence is not stated",
-          "type": "neutral"
-        },
-        {
-          "text": "Corrosion condition is not stated",
-          "type": "neutral"
-        }
-      ]
-    },
-    {
-      "id": "web-1f460bdb04ab",
-      "title": "Used Blue z3 for Sale - Cars",
-      "description": "2001 BMW Z3 2.2i Roadster 2dr Petrol Manual (222 g/km, 170 bhp)-Magnificent Low Mileage Convertib... Warrington, Cheshire. £8,995 · 2000 BMW Z3 3.0 2dr ...",
-      "url": "https://www.gumtree.com/cars-vans-motorbikes/cars/uk/srpsearch+blue+z3",
-      "source": "Gumtree",
-      "price": 8995,
-      "mileage": 0,
-      "year": 2001,
-      "engine": "2.2",
-      "location": "",
-      "foundAt": "2026-11-26T16:47:54.340311+00:00",
-      "isDemo": false,
-      "expectedPrice": 6500,
-      "priceDifference": -38,
-      "dealScore": 3.4,
-      "conditionScore": 3.4,
-      "overallScore": 3.4,
-      "confidence": 65,
-      "reasons": [
-        {
-          "text": "38% above the modelled benchmark",
-          "type": "negative"
-        },
         {
           "text": "Service evidence is not stated",
           "type": "neutral"
@@ -356,7 +198,7 @@
       "year": 0,
       "engine": "2.8",
       "location": "",
-      "foundAt": "2026-11-26T16:47:47.067022+00:00",
+      "foundAt": "2026-11-27T16:33:13.532383+00:00",
       "isDemo": false,
       "expectedPrice": 8550,
       "priceDifference": -64,
@@ -390,7 +232,7 @@
       "year": 0,
       "engine": "2.8",
       "location": "",
-      "foundAt": "2026-11-26T16:47:47.067077+00:00",
+      "foundAt": "2026-11-27T16:33:13.532431+00:00",
       "isDemo": false,
       "expectedPrice": 8550,
       "priceDifference": -64,
